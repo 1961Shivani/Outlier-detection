@@ -1,0 +1,11 @@
+Package: OutlierDetection
+Type: Package
+Title: It will detect all outlier and show in the form of dataframe
+Version: 0.1.0
+Author: Tejas Vartak, Shivani Goyal
+Maintainer: The package maintainer <imshivi0002@gmail.com>
+Description: It will take dataframe and will provide number of outliers with original data and after taking log transformation
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
